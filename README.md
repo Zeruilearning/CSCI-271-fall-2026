@@ -22,4 +22,5 @@ C++
 
 ## Purpose
 
-This repository documents my progress in learning programming throughout the semester.
+The purpose that i make this github, which's try to improve my own coding skill and also it shows the process that i learned, no matter from this semester or several project coding...
+加油 努力 奋斗
